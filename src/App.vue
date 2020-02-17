@@ -1,7 +1,11 @@
 <template>
   <div id="app">
+<<<<<<< HEAD
     修改分支
     测试测试
+=======
+    修改分支上的,最新17:00
+>>>>>>> demo1
   </div>
 </template>
 
